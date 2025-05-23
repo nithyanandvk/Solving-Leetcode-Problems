@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Tree
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
