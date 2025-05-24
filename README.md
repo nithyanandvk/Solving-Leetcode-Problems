@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0164-maximum-gap](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0414-third-maximum-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [1580-shuffle-the-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
