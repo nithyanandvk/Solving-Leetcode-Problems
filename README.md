@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1205-defanging-an-ip-address](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3379-score-of-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3379-score-of-a-string) |
