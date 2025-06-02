@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [1635-number-of-good-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2383-add-two-integers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
