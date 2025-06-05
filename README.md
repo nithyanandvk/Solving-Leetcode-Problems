@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0414-third-maximum-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
