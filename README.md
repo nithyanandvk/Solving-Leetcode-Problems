@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Linked List
 |  |
 | ------- |
