@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0414-third-maximum-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0414-third-maximum-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
