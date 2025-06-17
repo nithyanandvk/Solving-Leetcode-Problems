@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
