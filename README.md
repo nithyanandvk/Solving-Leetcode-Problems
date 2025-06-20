@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0164-maximum-gap](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0164-maximum-gap) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0278-first-bad-version](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
