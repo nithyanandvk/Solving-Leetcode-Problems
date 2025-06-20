@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -260,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
