@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0535-encode-and-decode-tinyurl](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0535-encode-and-decode-tinyurl](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -270,8 +272,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0535-encode-and-decode-tinyurl](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
