@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0278-first-bad-version) |
+| [0450-delete-node-in-a-bst](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
