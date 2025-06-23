@@ -34,8 +34,10 @@ class Solution {
             }
 
             TreeNode is=find(root.right);
+            int mad = root.val;
             root.val=is.val;
-            root.right=deleteNode(root.right,is.val);
+            is.val = mad;
+            root.right=deleteNode(root.right,key);
         }
         return root;
     }
