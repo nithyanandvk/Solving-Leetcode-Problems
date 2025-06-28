@@ -8,7 +8,9 @@ class Solution {
         int max=sum;
         for(int i=k;i<n;i++){
             sum=sum+nums[i]-nums[i-k];
-            max=Math.max(max,sum);
+            if(max<sum){
+                max=sum;
+            }
         }
         return max/(double)k;
     }
