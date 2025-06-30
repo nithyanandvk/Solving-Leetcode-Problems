@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0164-maximum-gap](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
