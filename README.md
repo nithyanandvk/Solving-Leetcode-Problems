@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0085-maximal-rectangle) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0120-triangle) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0055-jump-game) |
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
