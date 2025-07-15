@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0064-minimum-path-sum) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
