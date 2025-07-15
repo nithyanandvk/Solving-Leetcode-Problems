@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0089-gray-code) |
 | [1086-divisor-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Number Theory
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
