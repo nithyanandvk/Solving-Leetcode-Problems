@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
