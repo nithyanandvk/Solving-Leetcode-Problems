@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1046-max-consecutive-ones-iii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [1505-create-target-array-in-the-given-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
