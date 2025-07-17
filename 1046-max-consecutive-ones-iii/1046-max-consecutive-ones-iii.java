@@ -12,13 +12,10 @@ class Solution {
                 c++;
             }else{
                 max=Math.max(r-l,max);
-                int x=nums[l];
-                while(x!=0){
-                    l++;
-                    x=nums[l];
+                if(nums[l]==0){
+                    c--;
                 }
                 l++;
-                c--;
             }
         }
         max = Math.max(max, r - l);
