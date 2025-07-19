@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1046-max-consecutive-ones-iii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1797-goal-parser-interpretation) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -501,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
