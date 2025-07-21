@@ -7,11 +7,11 @@ class Solution {
         int c=1;
         ans=ans.append(s.charAt(0));
         while(r<n){
-            //System.out.println(s.charAt(r)+"=="+ans.charAt(l));
-            if(s.charAt(r)==ans.charAt(l)){
+            char x=s.charAt(r);
+            if(x==ans.charAt(l)){
                 c++;
                 if(c<3){
-                    ans.append(s.charAt(r));
+                    ans.append(x);
                     l++;
                     r++;
                 }else if(c>=3){
@@ -19,7 +19,7 @@ class Solution {
                 }
             }else{
                 c=1;
-                ans.append(s.charAt(r));
+                ans.append(x);
                 r++;
                 l++;
             }
