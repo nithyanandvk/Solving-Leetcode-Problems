@@ -14,34 +14,30 @@
  * }
  */
 class Solution {
-    static ArrayList<String> al;
-
+    List<String> ans;
     public List<String> binaryTreePaths(TreeNode root) {
-        al = new ArrayList<>();
-        path(new ArrayList<>(), root);
-        return al;
+        ans=new ArrayList<>();
+        rec(root,new ArrayList<>());
+        return ans;
     }
-
-    public static void path(ArrayList<Integer> l, TreeNode root) {
-        if (root == null) {
+    public void rec(TreeNode root,ArrayList<Integer> li){
+        if(root==null){
             return;
         }
-        l.add(root.val);
-        if (root.left == null && root.right == null) {
-            StringBuilder ans = new StringBuilder();
-            for (int i = 0; i < l.size(); i++) {
-                if (i != l.size() - 1) {
-                    ans.append(l.get(i) + "->");
-                } else {
-                    ans.append(l.get(i));
+        li.add(root.val);
+        if(root.left==null && root.right==null){
+            StringBuilder sb=new StringBuilder();
+            for(int i=0;i<li.size();i++){
+                if(i!=li.size()-1){
+                    sb.append(li.get(i)+"->");
+                }else{
+                    sb.append(li.get(i));
                 }
             }
-            al.add(ans.toString());
-        } else {
-            path(l, root.left);
-            path(l, root.right);
+            ans.add(sb.toString());
         }
-        l.remove(l.size() - 1);
-
+        rec(root.left,li);
+        rec(root.right,li);
+        li.remove(li.size()-1);
     }
 }
