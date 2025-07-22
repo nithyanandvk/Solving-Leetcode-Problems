@@ -14,36 +14,34 @@
  * }
  */
 class Solution {
-    public TreeNode deleteNode(TreeNode root, int key) {
-        if (root == null) {
-            return null;
+    public TreeNode deleteNode(TreeNode root, int x) {
+        if(root==null){
+            return root;
         }
-        if(root.val>key){
-            root.left=deleteNode(root.left,key);
-        }else if(root.val<key){
-            root.right=deleteNode(root.right,key);
+        if(x<root.val){
+            root.left=deleteNode(root.left,x);
+        }else if(x>root.val){
+            root.right=deleteNode(root.right,x);
         }else{
-            if(root.left==null && root.right==null){
+            if(root.left == null && root.right==null){
                 return null;
-            }
-
-            if(root.left==null){
+            }else if(root.left==null){
                 return root.right;
             }else if(root.right==null){
                 return root.left;
+            }else{
+                TreeNode ans=rec(root.left);
+                int z=root.val;
+                root.val=ans.val;
+                ans.val=z;
+                root.left= deleteNode(root.left,x);
             }
-
-            TreeNode is=find(root.right);
-            int mad = root.val;
-            root.val=is.val;
-            is.val = mad;
-            root.right=deleteNode(root.right,key);
         }
         return root;
     }
-    public static TreeNode find(TreeNode root){
-        while(root.left!=null){
-            root=root.left;
+    public static TreeNode rec(TreeNode root){
+        while(root.right!=null){
+            root=root.right;
         }
         return root;
     }
