@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## String
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
+| [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
@@ -548,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
