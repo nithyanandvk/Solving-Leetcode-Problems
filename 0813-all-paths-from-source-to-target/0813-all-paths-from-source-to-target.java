@@ -11,9 +11,6 @@ class Solution {
         vis[src]=true;
         if(src==dest){
             ans.add(new ArrayList<>(l));
-            vis[src]=false;
-            l.remove(l.size()-1);
-            return;
         }
         for(int i=0;i<graph[src].length;i++){
             dfs(graph,l,graph[src][i],dest,vis);
