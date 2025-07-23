@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0813-all-paths-from-source-to-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Number Theory
 |  |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Memoization
