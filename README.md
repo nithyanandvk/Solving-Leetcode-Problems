@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0813-all-paths-from-source-to-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Number Theory
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0401-binary-watch](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0401-binary-watch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
