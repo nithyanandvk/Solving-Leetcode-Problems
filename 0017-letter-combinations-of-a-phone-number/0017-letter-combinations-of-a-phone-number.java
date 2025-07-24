@@ -1,39 +1,24 @@
 class Solution {
+    static ArrayList<String> ans;
     public List<String> letterCombinations(String digits) {
-        if (digits.isEmpty()) {
-            return Collections.emptyList();
+        String kb[] = { "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz" };
+        ans=new ArrayList<>();
+        if(digits.length()==0){
+            return ans;
         }
-
-        String[] digitToLetters = {
-            "abc", "def", "ghi", "jkl", 
-            "mno", "pqrs", "tuv", "wxyz"
-        };
-
-        List<String> combinations = new ArrayList<>();
-        generateCombinations("", digits, digitToLetters, combinations);
-        return combinations;
+        rec(digits,kb,new StringBuilder(),0);
+        return ans;
     }
-
-    private void generateCombinations(
-        String currentCombination,
-        String remainingDigits,
-        String[] digitToLetters,
-        List<String> combinations
-    ) {
-        if (remainingDigits.isEmpty()) {
-            combinations.add(currentCombination);
-        } else {
-            char currentDigit = remainingDigits.charAt(0);
-            String possibleLetters = digitToLetters[currentDigit - '2'];
-
-            for (char letter : possibleLetters.toCharArray()) {
-                generateCombinations(
-                    currentCombination + letter,
-                    remainingDigits.substring(1),
-                    digitToLetters,
-                    combinations
-                );
-            }
+    public static void rec(String digits,String kb[],StringBuilder curr,int id){
+        if(curr.length()==digits.length()){
+            ans.add(curr.toString());
+            return;
+        }
+        String s=kb[digits.charAt(id)-'2'];
+        for(int i=0;i<s.length();i++){
+            curr.append(s.charAt(i));
+            rec(digits,kb,curr,id+1);
+            curr.deleteCharAt(curr.length()-1);
         }
     }
 }
