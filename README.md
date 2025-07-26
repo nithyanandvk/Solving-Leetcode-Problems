@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## String
 |  |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2662-check-knight-tour-configuration](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Search Tree
 |  |
