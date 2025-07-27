@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0871-keys-and-rooms) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0871-keys-and-rooms) |
@@ -567,12 +569,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0871-keys-and-rooms) |
@@ -614,4 +618,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0062-unique-paths) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
