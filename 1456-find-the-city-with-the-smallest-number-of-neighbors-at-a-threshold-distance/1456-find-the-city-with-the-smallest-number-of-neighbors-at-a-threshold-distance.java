@@ -24,7 +24,7 @@ class Solution {
         int z=0;
         for (int arr[] : mat) {
                        // System.out.println(Arrays.toString(arr));
-            Arrays.sort(arr);
+            // Arrays.sort(arr);
             int curr = 0;
             int t = distanceThreshold;
             
