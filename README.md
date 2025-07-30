@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [1086-divisor-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1086-divisor-game) |
 | [1105-uncrossed-lines](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1105-uncrossed-lines) |
