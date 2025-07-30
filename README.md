@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1086-divisor-game) |
 | [1105-uncrossed-lines](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1105-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
