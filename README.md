@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1970-sorting-the-sentence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
