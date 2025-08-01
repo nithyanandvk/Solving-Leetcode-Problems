@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2662-check-knight-tour-configuration](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2662-check-knight-tour-configuration) |
 | [2714-left-and-right-sum-differences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2662-check-knight-tour-configuration](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2662-check-knight-tour-configuration](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2662-check-knight-tour-configuration) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3811-reverse-degree-of-a-string) |
