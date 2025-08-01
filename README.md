@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1253-sort-the-matrix-diagonally](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0135-candy) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
