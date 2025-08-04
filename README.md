@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1036-rotting-oranges) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
