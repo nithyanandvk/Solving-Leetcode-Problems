@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0055-jump-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0242-valid-anagram) |
