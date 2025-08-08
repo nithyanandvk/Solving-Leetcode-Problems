@@ -684,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2439-longest-cycle-in-a-graph) |
