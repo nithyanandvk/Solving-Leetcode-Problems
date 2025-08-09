@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2887-sort-vowels-in-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Bucket Sort
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3379-score-of-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3396-valid-word) |
 | [3540-hash-divided-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3540-hash-divided-string) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3778-transform-array-by-parity](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
