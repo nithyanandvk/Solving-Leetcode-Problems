@@ -1,10 +1,9 @@
 class Solution {
     public int jump(int[] nums) {
+        int l=0,r=0,c=0;
         int n=nums.length;
-        int c=0;
-        int l=0,r=0;
         while(r<n-1){
-            int far=0;
+            int far=l;
             for(int i=l;i<=r;i++){
                 far=Math.max(far,i+nums[i]);
             }
@@ -14,5 +13,4 @@ class Solution {
         }
         return c;
     }
-
 }
