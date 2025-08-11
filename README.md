@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1105-uncrossed-lines) |
 | [1241-decompress-run-length-encoded-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1241-decompress-run-length-encoded-list) |
 | [1253-sort-the-matrix-diagonally](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1253-sort-the-matrix-diagonally) |
+| [1293-three-consecutive-odds](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1310-watering-plants](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1310-watering-plants) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
