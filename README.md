@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0089-gray-code) |
+| [0326-power-of-three](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0343-integer-break) |
 | [0826-soup-servings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0826-soup-servings) |
 | [1086-divisor-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1086-divisor-game) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0326-power-of-three) |
 | [2573-remove-nodes-from-linked-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
