@@ -19,7 +19,6 @@ class Solution {
         if (root == null) {
             return ans;
         }
-        Stack<List<Integer>> st = new Stack<>();
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         q.add(null);
@@ -28,13 +27,11 @@ class Solution {
             TreeNode curr = q.poll();
             if (curr == null) {
                 if (q.isEmpty()) {
-                    st.push(new ArrayList<>(l));
-                    while (!st.isEmpty()) {
-                        ans.add(st.pop());
-                    }
+                    ans.add(new ArrayList<>(l));
+                    Collections.reverse(ans);
                     return ans;
                 } else {
-                    st.push(new ArrayList<>(l));
+                    ans.add(new ArrayList<>(l));
                     q.add(null);
                     l.clear();
                 }
