@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2379-maximum-total-importance-of-roads](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2502-sort-the-people) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2379-maximum-total-importance-of-roads](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2379-maximum-total-importance-of-roads](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2413-smallest-number-in-infinite-set](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 ## Graph
 |  |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1916-find-center-of-star-graph](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2439-longest-cycle-in-a-graph](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Memoization
