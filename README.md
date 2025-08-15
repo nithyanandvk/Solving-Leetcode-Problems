@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0289-game-of-life](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0289-game-of-life](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1310-watering-plants](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1310-watering-plants) |
