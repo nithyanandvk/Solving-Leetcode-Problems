@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0079-word-search) |
+| [0205-isomorphic-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0383-ransom-note) |
