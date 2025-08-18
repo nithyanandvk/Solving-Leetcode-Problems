@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0826-soup-servings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0826-soup-servings) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [2128-reverse-prefix-of-word](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
