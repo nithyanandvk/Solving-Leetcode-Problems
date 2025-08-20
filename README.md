@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1310-watering-plants) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1380-number-of-closed-islands) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1086-divisor-game) |
 | [1105-uncrossed-lines](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1105-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0813-all-paths-from-source-to-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2107-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Number Theory
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0401-binary-watch) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -926,4 +931,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0148-sort-list) |
+## Bitmask
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
