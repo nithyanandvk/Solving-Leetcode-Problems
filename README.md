@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0206-reverse-linked-list) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0392-is-subsequence) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0169-majority-element) |
 | [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Combinatorics
@@ -913,4 +917,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
