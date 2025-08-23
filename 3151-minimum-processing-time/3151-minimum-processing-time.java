@@ -6,9 +6,7 @@ class Solution {
         int max=Integer.MIN_VALUE;
         for(int i=0;i<n;i++){
             int x=p.get(i);
-            for(int j=i*4;j<i*4+4;j++){
-                max=Math.max(max,x+t.get(j));
-            }
+            max=Math.max(max,x+t.get(i*4));    
         }
         return max;
     }
