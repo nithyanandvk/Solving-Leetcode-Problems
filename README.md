@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0829-subdomain-visit-count](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0690-employee-importance) |
 | [0829-subdomain-visit-count](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0966-binary-subarrays-with-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
