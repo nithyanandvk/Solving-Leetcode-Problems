@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2058-concatenation-of-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1876-map-of-highest-peak) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
