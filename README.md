@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3151-minimum-processing-time](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2887-sort-vowels-in-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3151-minimum-processing-time](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3151-minimum-processing-time](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
