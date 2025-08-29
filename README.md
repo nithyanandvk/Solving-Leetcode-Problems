@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3636-check-balanced-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3636-check-balanced-string) |
 | [3707-find-the-most-common-response](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3707-find-the-most-common-response) |
 | [3811-reverse-degree-of-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
