@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1894-merge-strings-alternately](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1954-replace-all-digits-with-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
+| [1894-merge-strings-alternately](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
