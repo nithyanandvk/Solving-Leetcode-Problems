@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3379-score-of-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3396-valid-word) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3540-hash-divided-string) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2662-check-knight-tour-configuration](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2662-check-knight-tour-configuration) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3540-hash-divided-string) |
