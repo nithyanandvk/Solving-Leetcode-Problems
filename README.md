@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
