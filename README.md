@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
