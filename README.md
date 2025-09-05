@@ -755,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search
 |  |
@@ -887,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1086-divisor-game) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Game Theory
 |  |
 | ------- |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Geometry
 |  |
