@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Depth-First Search
 |  |
 | ------- |
