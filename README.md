@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2442-number-of-arithmetic-triplets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2502-sort-the-people) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2406-decode-the-message) |
 | [2413-smallest-number-in-infinite-set](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
+| [2442-number-of-arithmetic-triplets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -1000,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2442-number-of-arithmetic-triplets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Geometry
