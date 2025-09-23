@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2159-two-out-of-three](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
+| [2159-two-out-of-three](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0401-binary-watch) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2159-two-out-of-three](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
