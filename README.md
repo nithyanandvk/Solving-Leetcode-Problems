@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0829-subdomain-visit-count](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0829-subdomain-visit-count) |
+| [0898-transpose-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0898-transpose-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1041-available-captures-for-rook) |
 | [1253-sort-the-matrix-diagonally](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1253-sort-the-matrix-diagonally) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0898-transpose-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1041-available-captures-for-rook](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1041-available-captures-for-rook) |
