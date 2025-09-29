@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3516-design-neighbor-sum-service](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3582-find-indices-of-stable-mountains) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3516-design-neighbor-sum-service](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3707-find-the-most-common-response) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3516-design-neighbor-sum-service](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3748-sort-matrix-by-diagonals](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2662-check-knight-tour-configuration) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3447-clear-digits) |
+| [3516-design-neighbor-sum-service](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3540-hash-divided-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -902,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [2413-smallest-number-in-infinite-set](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
+| [3516-design-neighbor-sum-service](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
 ## Queue
 |  |
 | ------- |
