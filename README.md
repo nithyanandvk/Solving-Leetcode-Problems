@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1380-number-of-closed-islands) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1390-four-divisors](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-reduce-array-size-to-the-half](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0343-integer-break) |
 | [0826-soup-servings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0826-soup-servings) |
 | [1086-divisor-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1086-divisor-game) |
+| [1390-four-divisors](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1448-maximum-69-number) |
