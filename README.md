@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1310-watering-plants](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1310-watering-plants) |
+| [1314-matrix-block-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1314-matrix-block-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1380-number-of-closed-islands) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1041-available-captures-for-rook) |
 | [1253-sort-the-matrix-diagonally](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1253-sort-the-matrix-diagonally) |
+| [1314-matrix-block-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1314-matrix-block-sum) |
 | [1380-number-of-closed-islands](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0966-binary-subarrays-with-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1314-matrix-block-sum) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
