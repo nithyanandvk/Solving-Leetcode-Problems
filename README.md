@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2951-find-the-peaks](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2951-find-the-peaks) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3151-minimum-processing-time](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2951-find-the-peaks) |
 ## Geometry
 |  |
 | ------- |
