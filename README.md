@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1002-find-common-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1036-rotting-oranges](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1041-available-captures-for-rook) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1002-find-common-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1399-count-largest-group](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1399-count-largest-group) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [0829-subdomain-visit-count](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
+| [1002-find-common-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
