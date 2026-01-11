@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2485-find-the-pivot-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2571-find-the-pivot-integer) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2485-find-the-pivot-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2571-find-the-pivot-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
