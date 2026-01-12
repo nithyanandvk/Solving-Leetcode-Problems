@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1105-uncrossed-lines) |
 | [1241-decompress-run-length-encoded-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1241-decompress-run-length-encoded-list) |
 | [1253-sort-the-matrix-diagonally](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1253-sort-the-matrix-diagonally) |
+| [1266-minimum-time-visiting-all-points](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1310-watering-plants](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1310-watering-plants) |
 | [1314-matrix-block-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1314-matrix-block-sum) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0343-integer-break) |
 | [0826-soup-servings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0826-soup-servings) |
 | [1086-divisor-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1086-divisor-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1390-four-divisors) |
 | [1399-count-largest-group](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1399-count-largest-group) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Segment Tree
 |  |
