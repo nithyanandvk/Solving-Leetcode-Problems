@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3379-score-of-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3379-score-of-a-string) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3515-find-if-digit-game-can-be-won) |
