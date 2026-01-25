@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2057-smallest-index-with-equal-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2058-concatenation-of-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2379-maximum-total-importance-of-roads) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
