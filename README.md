@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
