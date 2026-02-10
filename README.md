@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2460-apply-operations-to-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
+| [2460-apply-operations-to-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
+| [2460-apply-operations-to-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
