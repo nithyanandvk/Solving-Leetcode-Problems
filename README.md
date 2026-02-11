@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2278-percentage-of-letter-in-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2399-check-distances-between-same-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2399-check-distances-between-same-letters) |
 | [2406-decode-the-message](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2406-decode-the-message) |
