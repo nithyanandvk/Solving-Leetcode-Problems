@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2643-row-with-maximum-ones](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2643-row-with-maximum-ones) |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2662-check-knight-tour-configuration](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2662-check-knight-tour-configuration) |
 | [3379-transformed-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3379-transformed-array) |
@@ -1048,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2413-smallest-number-in-infinite-set](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Graph
 |  |
 | ------- |
