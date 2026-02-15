@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0172-factorial-trailing-zeroes) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0898-transpose-matrix) |
@@ -876,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0260-single-number-iii) |
