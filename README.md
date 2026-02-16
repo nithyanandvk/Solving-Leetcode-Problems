@@ -881,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0342-power-of-four) |
@@ -1124,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Combinatorics
