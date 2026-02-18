@@ -886,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
