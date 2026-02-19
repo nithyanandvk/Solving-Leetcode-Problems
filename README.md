@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0829-subdomain-visit-count](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0829-subdomain-visit-count) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
