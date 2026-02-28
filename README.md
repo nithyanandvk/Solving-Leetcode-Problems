@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1390-four-divisors](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1408-string-matching-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-reduce-array-size-to-the-half](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1464-reduce-array-size-to-the-half) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1408-string-matching-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -1160,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1408-string-matching-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Enumeration
 |  |
