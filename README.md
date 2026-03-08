@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1905-count-sub-islands) |
 | [1917-maximum-average-pass-ratio](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1980-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2057-smallest-index-with-equal-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2058-concatenation-of-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
+| [1980-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0813-all-paths-from-source-to-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1980-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Number Theory
