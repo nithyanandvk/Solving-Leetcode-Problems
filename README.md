@@ -1061,12 +1061,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0933-number-of-recent-calls](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [3516-design-neighbor-sum-service](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Hash Function
 |  |
@@ -1236,4 +1238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
