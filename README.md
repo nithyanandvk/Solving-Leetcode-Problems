@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2562-find-the-array-concatenation-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2562-find-the-array-concatenation-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2662-check-knight-tour-configuration](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2662-check-knight-tour-configuration) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2562-find-the-array-concatenation-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
