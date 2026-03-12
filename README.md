@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1635-number-of-good-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1488-sort-integers-by-the-power-value) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1829-maximum-units-on-a-truck) |
