@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1954-replace-all-digits-with-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1310-watering-plants) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1505-create-target-array-in-the-given-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
