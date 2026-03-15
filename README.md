@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-minimum-processing-time](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2662-check-knight-tour-configuration](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2662-check-knight-tour-configuration) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3447-clear-digits) |
