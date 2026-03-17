@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2363-merge-similar-items](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2363-merge-similar-items) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2399-check-distances-between-same-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2399-check-distances-between-same-letters) |
 | [2411-spiral-matrix-iv](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2363-merge-similar-items](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2363-merge-similar-items) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2363-merge-similar-items](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2363-merge-similar-items) |
 | [2399-check-distances-between-same-letters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2399-check-distances-between-same-letters) |
 | [2406-decode-the-message](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2406-decode-the-message) |
 | [2413-smallest-number-in-infinite-set](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
@@ -1221,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2363-merge-similar-items](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2363-merge-similar-items) |
 | [2413-smallest-number-in-infinite-set](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [3790-fruits-into-baskets-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Minimum Spanning Tree
