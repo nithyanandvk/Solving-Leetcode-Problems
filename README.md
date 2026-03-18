@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3151-minimum-processing-time](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2643-row-with-maximum-ones](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2643-row-with-maximum-ones) |
 | [2662-check-knight-tour-configuration](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2662-check-knight-tour-configuration) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3516-design-neighbor-sum-service](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3516-design-neighbor-sum-service) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2848-points-that-intersect-with-cars) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Greedy
 |  |
