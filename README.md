@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2502-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2562-find-the-array-concatenation-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2502-sort-the-people](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2502-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2502-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2887-sort-vowels-in-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -951,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2159-two-out-of-three](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2506-count-pairs-of-similar-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
