@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
