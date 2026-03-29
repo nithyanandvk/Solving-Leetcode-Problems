@@ -1168,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [3475-dna-pattern-recognition](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3475-dna-pattern-recognition) |
 ## Topological Sort
 |  |
 | ------- |
