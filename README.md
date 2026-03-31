@@ -1164,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1670-patients-with-a-condition](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1670-patients-with-a-condition) |
+| [1795-rearrange-products-table](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1795-rearrange-products-table) |
 | [1811-fix-names-in-a-table](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1837-daily-leads-and-partners) |
