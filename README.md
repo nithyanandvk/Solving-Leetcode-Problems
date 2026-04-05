@@ -1165,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0619-biggest-single-number) |
 | [1068-product-sales-analysis-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1670-patients-with-a-condition](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1670-patients-with-a-condition) |
 | [1795-rearrange-products-table](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1795-rearrange-products-table) |
