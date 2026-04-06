@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0829-subdomain-visit-count](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0829-subdomain-visit-count) |
+| [0874-walking-robot-simulation](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0690-employee-importance](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0690-employee-importance) |
 | [0829-subdomain-visit-count](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0829-subdomain-visit-count) |
+| [0874-walking-robot-simulation](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-find-common-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1002-find-common-characters) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
