@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3707-find-the-most-common-response](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3707-find-the-most-common-response) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-hash-divided-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3540-hash-divided-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Prefix Sum
@@ -1211,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [1285-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Combinatorics
 |  |
 | ------- |
