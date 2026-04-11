@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3707-find-the-most-common-response](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3707-find-the-most-common-response) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3707-find-the-most-common-response) |
 | [3713-longest-balanced-substring-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
