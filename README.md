@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1980-find-unique-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2057-smallest-index-with-equal-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2058-concatenation-of-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1905-count-sub-islands) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2383-add-two-integers) |
