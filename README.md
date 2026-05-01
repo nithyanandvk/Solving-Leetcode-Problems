@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0396-rotate-function](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0343-integer-break) |
+| [0396-rotate-function](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0826-soup-servings) |
 | [1086-divisor-game](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1086-divisor-game) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0516-longest-palindromic-subsequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0826-soup-servings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0826-soup-servings) |
