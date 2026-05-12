@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Bucket Sort
 |  |
