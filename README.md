@@ -716,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2491-smallest-even-multiple) |
+| [2544-alternating-digit-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2544-alternating-digit-sum) |
 | [2556-convert-the-temperature](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
