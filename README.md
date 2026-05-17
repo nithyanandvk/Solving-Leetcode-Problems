@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3830-find-closest-person) |
+| [3870-count-commas-in-range](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
