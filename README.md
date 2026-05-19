@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2502-sort-the-people](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2506-count-pairs-of-similar-strings) |
+| [2540-minimum-common-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -1074,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting Sort
