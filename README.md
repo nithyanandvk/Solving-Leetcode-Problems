@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
