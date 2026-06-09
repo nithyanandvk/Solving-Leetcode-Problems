@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3830-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [3945-digit-frequency-score](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
