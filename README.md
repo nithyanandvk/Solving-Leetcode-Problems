@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2662-check-knight-tour-configuration) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3379-transformed-array](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3447-clear-digits) |
@@ -1174,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2413-smallest-number-in-infinite-set](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Graph
 |  |
 | ------- |
