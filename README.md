@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3830-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3870-count-commas-in-range) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
 |  |
 | ------- |
@@ -1292,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
 |  |
 | ------- |
