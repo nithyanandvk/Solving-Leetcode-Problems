@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1635-number-of-good-pairs](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1677-matrix-diagonal-sum](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-sort-integers-by-the-power-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1488-sort-integers-by-the-power-value) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1829-maximum-units-on-a-truck) |
