@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1782-smallest-string-with-a-given-numeric-value) |
@@ -1121,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
