@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0169-majority-element) |
@@ -998,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/nithyanandvk/Solving-Leetcode-Problems/tree/master/0260-single-number-iii) |
